@@ -1,1 +1,1 @@
-# new-repository
+# the first challenge
