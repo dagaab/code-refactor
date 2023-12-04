@@ -18,15 +18,15 @@ One visible change was made - larger font to make it easier to read for people w
 ## Links
 
 [Deployed webpage](https://dagaab.github.io/code-refactor-horiseon/)
+
 [Repository](https://github.com/dagaab/code-refactor-horiseon)
 
 ## Usage
 
 To use this page you can click on the link in the top menu. They will *tranfer you* to the description of Horiseon services. The side bar provides the user with benefits of being a client of Horiseon.
 
- ```md
     ![Horiseon webpage](assets/images/screenshot.png)
-    ```
+   
 
 ## Contributing
 
