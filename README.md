@@ -3,12 +3,13 @@
 ## Description
 
 This is a code refactor for Horiseon webpage. The goal is to improve the code by making it more efficient and readable without affecting its original functionality.
+
 One visible change was made - larger font to make it easier to read for people with disabilities. 
 
 ## Changes made
 * added more descriptive title
 * changed non-semantic tags to semantic tags within HTML code
-* moved elements within HTML codes so that they meet hierarchy creteria (e.g. headings)
+* moved elements within HTML code so that they meet hierarchy creteria (e.g. headings)
 * moved elemets within CSS so that the code matches HTML
 * added alt attributes to the images
 * renamed classes to avoid repetitiveness
@@ -25,7 +26,7 @@ One visible change was made - larger font to make it easier to read for people w
 
 To use this page you can click on the link in the top menu. They will *tranfer you* to the description of Horiseon services. The side bar provides the user with benefits of being a client of Horiseon.
 
-    ![Horiseon webpage](assets/images/screenshot.png)
+    ![Horiseon webpage](assets/images/screenshot.png) ![Horiseon webpage](/code-refactor-horiseon/assets/images/screenshot.png?raw=true "Horiseon webpage")
    
 
 ## Contributing
@@ -34,11 +35,11 @@ Everyone is welcome to contribute to this project. The goal is to make the code 
 
 ## Credits
 
-### Collaborators:
+#### Collaborators:
 
 [dagaab](https://github.com/dagaab)
 
-### Used tutorials:
+#### Used tutorials:
 
 * [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [HTML img alt Attribute](https://www.w3schools.com/tags/att_img_alt.asp)
