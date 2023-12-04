@@ -26,7 +26,7 @@ One visible change was made - larger font to make it easier to read for people w
 
 To use this page you can click on the link in the top menu. They will *tranfer you* to the description of Horiseon services. The side bar provides the user with benefits of being a client of Horiseon.
 
-    ![Horiseon webpage](assets/images/screenshot.jpeg) 
+    ![Horiseon webpage](/code-refactor-horiseon/assets/images/screenshot.jpeg?raw=true "Horiseon webpage")
    
 
 ## Contributing
